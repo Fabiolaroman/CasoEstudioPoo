@@ -1,0 +1,2 @@
+Harry Potter,J.K Rowling,false
+El Principito,Antoine de Saint-Exupéry,true
